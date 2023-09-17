@@ -7,3 +7,6 @@
 3. Добавить в проект три и/или более теста на API https://catfact.ninja/ с логированием в аллюр
 4. Сделать в проекте поддержку логирования с вшитым baseUrl для нескольких сервисов: catfacts и reqres.
 5. Добавить сборку с запуском API тестов в jenkins
+
+
+**Ссылка на сборку в Jenkins:** https://jenkins.autotests.cloud/job/qa_guru_homework_6_21_jenkins/
